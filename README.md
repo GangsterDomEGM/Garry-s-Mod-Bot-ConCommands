@@ -3,6 +3,7 @@ This Add-On is made with Glua. You can find it in the Steam Workshop: https://st
 
 # ℹ | About this Add-On:
 Version 1.0
+
 With this Add-On, you can simply add 5 Bots to your Server at once with one command. This might be the first and final Version.
 Look at “Console Commands” to see what you have to do.
 
